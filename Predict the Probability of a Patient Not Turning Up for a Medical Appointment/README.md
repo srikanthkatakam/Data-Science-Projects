@@ -1,6 +1,6 @@
 # Prediction of Patient no-show in a clinic/hospital
 
-Hospital appointment where the patient does not turn-up is defined as an appointment in which the patient did not visit for the treatment or cancelled the same day. As these appointments are problematic for practices at all levels of the health care system, patients not turning up is a missed revenue opportunity which cannot be re-captured for the practice, and which contribute to both decreased patient and staff satisfaction. Such appointments negatively impact both patients and care teams. The objective is to predict the probability of a patient not turning up for a medical appointment.
+Hospital appointment where the patient does not turn-up is defined as an appointment in which the patient did not visit for the treatment or cancelled the same day. As these appointments are problematic for practices at all levels of the health care system, patients not turning up is a missed revenue opportunity which cannot be re-captured for the practice, and which contributes to both decreased patient and staff satisfaction. Such appointments negatively impact both patients and care teams. The objective is to predict the probability of a patient not turning up for a medical appointment.
 
 ### Data
 
